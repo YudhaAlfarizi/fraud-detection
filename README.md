@@ -84,7 +84,7 @@ Dataset berisi sekitar 6,3 juta catatan transaksi, sebagian ditandai sebagai pen
 Python, pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Streamlit, joblib
 
 ## 🙏 Kredit
-* **Referensi proyek:** mengikuti video YouTube *Fraud Detection Using Machine Learning – Full Python Data Science Project* oleh Onur Baltaci ([link video](ISI_LINK_VIDEO_DI_SINI)). Kode mengikuti video, dengan penjelasan diterjemahkan ke Bahasa Indonesia.
+* **Referensi proyek:** mengikuti video YouTube *Fraud Detection Using Machine Learning – Full Python Data Science Project* oleh Onur Baltaci ([link video](https://www.youtube.com/watch?v=4Od5_z28iIE). Kode mengikuti video, dengan penjelasan diterjemahkan ke Bahasa Indonesia.
 * **Dataset:** [Fraud Detection Dataset](https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset) oleh Aman Ali Siddiqui (Kaggle).
 * **Tujuan:** pembelajaran dan portofolio, mendokumentasikan proses belajar saya dalam analisis data dan machine learning.
 
