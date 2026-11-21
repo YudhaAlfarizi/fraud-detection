@@ -1,6 +1,7 @@
 <div align="center">
 # 🔍 Fraud Detection: Deteksi Penipuan Transaksi Keuangan dengan Machine Learning
 </div>
+
 ## 📌 Project Background
 Dataset yang dipakai berisi **6.362.620 catatan transaksi keuangan** dengan 11 kolom, yaitu:
 
