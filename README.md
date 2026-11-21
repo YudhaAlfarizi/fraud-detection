@@ -100,4 +100,4 @@ Python, pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Streamlit, joblib
 
 ## 👤 Author
 **YUDHA ALFARIZI**
-* [LinkedIn](https://www.linkedin.com/in/yudha-alfarizi)
+* [LinkedIn](https://www.linkedin.com/in/yudha-alfarizi-07588a286/)
