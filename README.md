@@ -41,7 +41,7 @@ Pada transaksi keuangan digital, penipuan sulit dikenali karena jumlahnya sangat
 
 > Hasil bisa sedikit berbeda setiap dijalankan karena `train_test_split` tidak memakai `random_state`.
 
-## 🗂️ Struktur Proyek
+## Struktur Proyek
 ```
 fraud-detection/
 ├── README.md
