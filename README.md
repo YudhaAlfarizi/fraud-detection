@@ -1,5 +1,7 @@
 <div align="center">
+    
 # 🔍 Fraud Detection: Deteksi Penipuan Transaksi Keuangan dengan Machine Learning
+
 </div>
 
 ## 📌 Project Background
