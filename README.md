@@ -1,7 +1,7 @@
 <div align="center">
     
 # 🔍 Fraud Detection: Deteksi Penipuan Transaksi Keuangan dengan Machine Learning
----
+--
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-SVR-orange)
 
